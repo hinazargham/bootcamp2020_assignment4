@@ -1,12 +1,6 @@
-# BOOTCAMP Assignment no. 4 (Urdu Session)
+# ASSIGNMENT no. 4 ( Urdu Session)
 
-[Deploy Link](hina_bootcamp_assignment4.surge.sh)
-
-
-
-
-
+[Depoly Link](http://hina_bootcamp_assignment4.surge.sh/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 
